@@ -1,0 +1,23 @@
+img {
+    width: 400px;
+    height: 300px;
+    border: 2px solid ;
+}
+
+.header {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+html{
+    background-color: antiquewhite;
+}
+.link{
+    color: crimson;
+}
